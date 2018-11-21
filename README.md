@@ -1,4 +1,4 @@
-# Autm-rb
+# blog
 
 Another theme for jekyll.
 
@@ -15,8 +15,8 @@ Edit **_config.yml** and files inside **_data/** before using
 
 ## Licensing
 
-[MIT](https://github.com/railsr/autm-rb/blob/master/LICENSE)
+[MIT](https://github.com/railsr/blog/blob/master/LICENSE)
 
 [pages]: http://pages.github.com
-[fork]: https://github.com/railsr/autm-rb/fork
-[demo]: http://kirqe.github.io/autm-rb/
+[fork]: https://github.com/railsr/blog/fork
+[demo]: http://kirqe.github.io/blog/
